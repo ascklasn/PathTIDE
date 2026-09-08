@@ -1,0 +1,6 @@
+# Keep the public repository surface intentionally minimal for the initial release.
+/*
+!/.gitignore
+!/README.md
+!/Assets/
+!/Assets/**
